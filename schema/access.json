@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "spaceship",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "apiKey",
+        "valueType": "text",
+        "labelKey": "plugin.spaceship-dns.access.apiKey.label",
+        "tooltipKey": "plugin.spaceship-dns.access.apiKey.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.spaceship-dns.access.apiKey.placeholder",
+        "required": true
+      },
+      {
+        "name": "apiSecret",
+        "valueType": "secret",
+        "labelKey": "plugin.spaceship-dns.access.apiSecret.label",
+        "tooltipKey": "plugin.spaceship-dns.access.apiSecret.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.spaceship-dns.access.apiSecret.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}

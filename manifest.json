@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "spaceship",
+  "binary": "spaceship-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Spaceship.",
+  "display_name_key": "plugin.spaceship-dns.name",
+  "icon": "icon.png",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "spaceship-dns",
+  "provider_aliases": [
+    "spaceship"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

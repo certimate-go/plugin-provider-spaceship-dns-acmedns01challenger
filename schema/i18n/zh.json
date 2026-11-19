@@ -1,0 +1,10 @@
+{
+  "plugin.spaceship-dns.name": "Spaceship",
+  "plugin.spaceship-dns.description": "通过 Spaceship 完成 ACME DNS-01 验证。",
+  "plugin.spaceship-dns.access.apiKey.label": "Spaceship API Key",
+  "plugin.spaceship-dns.access.apiKey.tooltip": "这是什么？请参阅 <a href=\"https://www.spaceship.com/application/api-manager/\" target=\"_blank\">https://www.spaceship.com/application/api-manager/</a>",
+  "plugin.spaceship-dns.access.apiKey.placeholder": "请输入 Spaceship API Key",
+  "plugin.spaceship-dns.access.apiSecret.label": "Spaceship API Secret",
+  "plugin.spaceship-dns.access.apiSecret.tooltip": "这是什么？请参阅 <a href=\"https://www.spaceship.com/application/api-manager/\" target=\"_blank\">https://www.spaceship.com/application/api-manager/</a>",
+  "plugin.spaceship-dns.access.apiSecret.placeholder": "请输入 Spaceship API Secret"
+}

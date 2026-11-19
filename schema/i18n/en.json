@@ -1,0 +1,10 @@
+{
+  "plugin.spaceship-dns.name": "Spaceship",
+  "plugin.spaceship-dns.description": "ACME DNS-01 via Spaceship.",
+  "plugin.spaceship-dns.access.apiKey.label": "Spaceship API key",
+  "plugin.spaceship-dns.access.apiKey.tooltip": "For more information, see <a href=\"https://www.spaceship.com/application/api-manager/\" target=\"_blank\">https://www.spaceship.com/application/api-manager/</a>",
+  "plugin.spaceship-dns.access.apiKey.placeholder": "Please enter Spaceship API key",
+  "plugin.spaceship-dns.access.apiSecret.label": "Spaceship API secret",
+  "plugin.spaceship-dns.access.apiSecret.tooltip": "For more information, see <a href=\"https://www.spaceship.com/application/api-manager/\" target=\"_blank\">https://www.spaceship.com/application/api-manager/</a>",
+  "plugin.spaceship-dns.access.apiSecret.placeholder": "Please enter Spaceship API secret"
+}
